@@ -1,0 +1,12 @@
+.team{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.person{
+  height: 10rem;
+  width:  10rem;
+
+  background-color: lightgray;
+  margin: 0.5rem;
+}
